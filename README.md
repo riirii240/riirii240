@@ -22,7 +22,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| **RAG-MAROC2** *(internship @ GD INSIGHTS)* | Conversational RAG platform for Moroccan legal & administrative information. Benchmarked Hybrid RAG, GraphRAG and Corrective RAG on BSARD with bootstrap significance tests; IEEE article in preparation | bge-m3 · FAISS · BM25 · RRF · bge-reranker · KuzuDB · Command-R |
+| [**RAG-MAROC2**](https://github.com/riirii240/RAG-MAROC2) *(internship @ GD INSIGHTS)* | Conversational RAG platform for Moroccan legal & administrative information. Benchmarked Hybrid RAG, GraphRAG and Corrective RAG on BSARD with bootstrap significance tests; IEEE article in preparation | bge-m3 · FAISS · BM25 · RRF · bge-reranker · KuzuDB · Command-R |
 | [**Federated Learning System**](https://github.com/riirii240/Federated-Learning-system) | FedAvg across distributed workers with fault tolerance and a live training dashboard (MNIST) | PyTorch · gRPC · Docker · Streamlit |
 | [**E-Commerce Opinion Mining**](https://github.com/riirii240/E-Commerce-Opinion-Mining) | Sentiment classification and topic discovery on customer reviews | DistilBERT · BERTopic · Transformers |
 | [**Urban Traffic Control**](https://github.com/riirii240/Urban-Traffic-Control) | Reinforcement-learning agent that optimises traffic-light timing in a simulated intersection | Python · Q-Learning |
