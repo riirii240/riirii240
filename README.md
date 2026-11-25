@@ -13,8 +13,7 @@
 - 🎓 5th-year **AI & Data Science engineering** student at **EMSI Marrakech**, double degree with **Université Côte d'Azur** (Master MIAGE IA2)
 - 🔬 I build **retrieval-augmented systems, LLM-powered apps and end-to-end ML pipelines** — and I like to benchmark them properly
 - 🎯 Looking for a **6-month end-of-studies internship** (AI / Data / LLM engineering) starting **mid-February 2027**, in Morocco or France
-- ⚽ Off-keyboard: president of **Stade Marrakech**, a youth football club
-- 🌍 French · English · Arabic (Darija)
+- 🌍 French · English · Arabic and Darija
 
 ---
 
